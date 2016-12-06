@@ -61,10 +61,10 @@
   1.5625% {
     opacity: 1;
   }
-  23.4375% {
+  18.4375% {
     opacity: 1;
   }
-  26.5625% {
+  21.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -93,10 +93,10 @@
   1.5625% {
     opacity: 1;
   }
-  23.4375% {
+  18.4375% {
     opacity: 1;
   }
-  26.5625% {
+  21.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -116,18 +116,18 @@
   }
 }
 @-webkit-keyframes kenburns-2 {
-  23.4375% {
+  18.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  26.5625% {
+  21.5625% {
     opacity: 1;
   }
-  48.4375% {
+  38.4375% {
     opacity: 1;
   }
-  51.5625% {
+  41.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -139,18 +139,18 @@
   }
 }
 @keyframes kenburns-2 {
-  23.4375% {
+  18.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  26.5625% {
+  21.5625% {
     opacity: 1;
   }
-  48.4375% {
+  38.4375% {
     opacity: 1;
   }
-  51.5625% {
+  41.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -162,18 +162,18 @@
   }
 }
 @-webkit-keyframes kenburns-3 {
-  48.4375% {
+  38.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  51.5625% {
+  41.5625% {
     opacity: 1;
   }
-  73.4375% {
+  58.4375% {
     opacity: 1;
   }
-  76.5625% {
+  61.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -185,18 +185,18 @@
   }
 }
 @keyframes kenburns-3 {
-  48.4375% {
+  38.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  51.5625% {
+  41.5625% {
     opacity: 1;
   }
-  73.4375% {
+  58.4375% {
     opacity: 1;
   }
-  76.5625% {
+  61.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
@@ -208,48 +208,58 @@
   }
 }
 @-webkit-keyframes kenburns-4 {
-  73.4375% {
+  58.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  76.5625% {
+  61.5625% {
     opacity: 1;
   }
-  98.4375% {
+  78.4375% {
     opacity: 1;
   }
-  100% {
+  81.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
   }
 }
 @keyframes kenburns-4 {
-  73.4375% {
+  58.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  76.5625% {
+  61.5625% {
     opacity: 1;
   }
-  98.4375% {
+  78.4375% {
     opacity: 1;
   }
-  100% {
+  81.5625% {
     opacity: 0;
     -webkit-transform: scale(1);
             transform: scale(1);
   }
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
 }
 @-webkit-keyframes kenburns-5 {
-  73.4375% {
+  78.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  76.5625% {
+  81.5625% {
     opacity: 1;
   }
   98.4375% {
@@ -262,12 +272,12 @@
   }
 }
 @keyframes kenburns-5 {
-  73.4375% {
+  78.4375% {
     opacity: 1;
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
-  76.5625% {
+  81.5625% {
     opacity: 1;
   }
   98.4375% {
