@@ -17,15 +17,6 @@
     <ol class="indicator"></ol>
 </div>
 
-<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-</div>
-
 <div id="links">
 <a href="http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi2607LtJX1uygx22o1_500.jpg"><img src="http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi2607LtJX1uygx22o1_500.jpg?imageView2/2/w/200"></a>
 <a href="http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi27e7XNiP1uygx22o1_500.jpg"><img src="http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi27e7XNiP1uygx22o1_500.jpg?imageView2/2/w/200"></a>
@@ -58,14 +49,5 @@ document.getElementById('links').onclick = function (event) {
         links = this.getElementsByTagName('a');
     blueimp.Gallery(links, options);
 };
-</script>
-<script>
-blueimp.Gallery(
-    document.getElementById('links').getElementsByTagName('a'),
-    {
-        container: '#blueimp-gallery-carousel',
-        carousel: true
-    }
-);
 </script>
 </body></html>
