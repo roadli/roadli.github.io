@@ -1,6 +1,3 @@
-$(function () {
-  'use strict'
-
   blueimp.Gallery([
 {
 href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi5zi6yPpZ1uygx22o1_500.jpg',
@@ -327,4 +324,3 @@ thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oi2607ATnA1uygx22o1_500
         carousel: true
     })
 
-})
