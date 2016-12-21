@@ -1,5 +1,15 @@
   blueimp.Gallery([
 {
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oihem7CP0m1uygx22o1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oihem7CP0m1uygx22o1_500.jpg?imageView2/2/w/200'
+},
+{
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oihem7Ssdy1uygx22o1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oihem7Ssdy1uygx22o1_500.jpg?imageView2/2/w/200'
+},
+{
 href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oih3i64Q3S1uygx22o1_500.jpg',
 type: 'image/jpeg',
 thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oih3i64Q3S1uygx22o1_500.jpg?imageView2/2/w/200'
