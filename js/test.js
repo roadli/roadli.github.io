@@ -1,5 +1,25 @@
   blueimp.Gallery([
 {
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil3y6R8xy1uygx22o1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil3y6R8xy1uygx22o1_500.jpg?imageView2/2/w/200'
+},
+{
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil3y6HAI11uygx22o1_500.png',
+type: 'image/png',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil3y6HAI11uygx22o1_500.png?imageView2/2/w/200'
+},
+{
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil5c663T51uygx22o1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil5c663T51uygx22o1_500.jpg?imageView2/2/w/200'
+},
+{
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil5c6M4Sz1uygx22o1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oil5c6M4Sz1uygx22o1_500.jpg?imageView2/2/w/200'
+},
+{
 href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oiksu7b13k1uygx22o1_500.png',
 type: 'image/png',
 thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_oiksu7b13k1uygx22o1_500.png?imageView2/2/w/200'
