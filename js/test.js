@@ -1,5 +1,10 @@
   blueimp.Gallery([
 {
+href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_pf0zc6sRD21qbaoheo1_500.jpg',
+type: 'image/jpeg',
+thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_pf0zc6sRD21qbaoheo1_500.jpg?imageView2/2/w/200'
+},
+{
 href: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_pew677Pfrw1qbaoheo1_500.jpg',
 type: 'image/jpeg',
 thumbnail: 'http://7xoqys.com1.z0.glb.clouddn.com/tumblr_pew677Pfrw1qbaoheo1_500.jpg?imageView2/2/w/200'
